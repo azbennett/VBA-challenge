@@ -3,6 +3,12 @@ Week 2 Challenge
 
 Steve Bennett
 
+STEVE_BENNETT_STOCK_COUNTER_FINAL.VBS - code for the excel VBA script
+SHEET1_ss.png - Screenshot of the results of 2018 sheet page
+SHEET2_ss.png - Screenshot of the results of 2019 sheet page
+SHEET3_ss.png - Screenshot of the results of 2020 sheet page
+README - This file
+
 Additional resources used besides the included class reading materials:
 
 Core of the code from the a class activity ' Star Counter ' and was built further from there.
