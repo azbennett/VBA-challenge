@@ -11,6 +11,11 @@ README - This file
 
 Additional resources used besides the included class reading materials:
 
+https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office
+
+https://www.homeandlearn.org/excel_vba_practice1.html
+
+
 Core of the code from the a class activity ' Star Counter ' and was built further from there.
 
 'https://stackoverflow.com/questions/20612415/adding-text-to-a-cell-in-excel-using-vba
