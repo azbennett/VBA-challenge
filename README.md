@@ -3,10 +3,16 @@ Week 2 Challenge
 
 Steve Bennett
 
-STEVE_BENNETT_STOCK_COUNTER_FINAL.VBS - code for the excel VBA script
-SHEET1_ss.png - Screenshot of the results of 2018 sheet page
-SHEET2_ss.png - Screenshot of the results of 2019 sheet page
-SHEET3_ss.png - Screenshot of the results of 2020 sheet page
+STEVE_BENNETT_STOCK_COUNTER_FINAL.VBS - code for the excel VBA script  
+
+Total Run Time: 62.48 seconds - Start to Finish including formatting.
+
+SHEET1_ss.png - Screenshot of the results of 2018 sheet page  
+
+SHEET2_ss.png - Screenshot of the results of 2019 sheet page  
+
+SHEET3_ss.png - Screenshot of the results of 2020 sheet page  
+
 README - This file
 
 Additional resources used besides the included class reading materials:
